@@ -1,4 +1,4 @@
-[Click here to go to website](https://tito-daramola.github.io/Mental_Hue/)
+[Click here to go to the website](https://tito-daramola.github.io/Mental_Hue/)
 ## Mental Hue ![logo](https://github.com/Tito-Daramola/Mental_Hue/blob/main/assets/images/Mental%20Hue%20transparent.png)
 
 Mental Hue is a site that aims to be a hub for mental health resources, creating a relaxing environment for people to access the help and information they need regarding mental health issues. It aims to be the first stop for anyone facing mental health issues that signposts them to relevant and useful resources
