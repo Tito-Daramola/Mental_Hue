@@ -31,14 +31,16 @@ Mental Hue is a site that aims to be a hub for mental health resources, creating
 
   - This section gives a brief overview of various mental health issues that are commonly faced by people, 
 
-![Feelings and symptoms](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134113.png) (![Feelings and symptoms](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134159.png))
+![Feelings and symptoms](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134113.png) 
+![Feelings and symptoms](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134159.png)
 
 - __Take a break section__
 
   - This section hosts various i-cards for resources that are useful for relaxation, currently, it hosts a Spotify playlist i-frame and a YouTube video i-frame. They both host calming music for the user to listen to as they read or as they take a break
   - This section is valuable to the user as more content could be added and it allows the user to not have to leave the site and still be able to listen to relaxing music 
 
-![Take a break](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134124.png) (![assets/images/readme/Screenshot 2024-11-13 134137.png](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134137.png))
+![Take a break](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134124.png)
+![assets/images/readme/Screenshot 2024-11-13 134137.png](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134137.png)
 
 - __The learn more section__ 
 
@@ -54,9 +56,6 @@ Mental Hue is a site that aims to be a hub for mental health resources, creating
 
 ![Footer](https://raw.githubusercontent.com/Tito-Daramola/Project-1-repo/refs/heads/main/assets/images/readme/Screenshot%202024-11-13%20134231.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
@@ -72,9 +71,6 @@ In addition, you may also use this section to discuss plans for additional featu
 - CSS
   - No errors were found when passing through the official
 
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
