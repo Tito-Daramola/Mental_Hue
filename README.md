@@ -3,7 +3,7 @@
 Mental Hue is a site that aims to be a hub for mental health resources, creating a relaxing environment for people to access the help and information they need regarding mental health issues. It aims to be the first stop for anyone facing mental health issues that signposts them to relevant and useful resources
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/Tito-Daramola/Mental_Hue/blob/main/assets/images/readme/responsivity.jpg)
 
 ## Features 
 
